@@ -1,0 +1,6 @@
+streamlit
+chromadb
+pydantic
+openai
+python-dotenv
+watchdog
